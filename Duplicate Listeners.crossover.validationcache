@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="123">
+	<ValidationCacheItem File="Z:\Volumes\Projects\Repos\DuplicateListeners_Wwise\Virtual Acoustics\Default Work Unit.wwu" DateLow="1749704215" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Projects\Repos\DuplicateListeners_Wwise\Triggers\Default Work Unit.wwu" DateLow="1749704215" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Projects\Repos\DuplicateListeners_Wwise\Switches\Default Work Unit.wwu" DateLow="1749704215" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Projects\Repos\DuplicateListeners_Wwise\States\Default Work Unit.wwu" DateLow="1749704215" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Projects\Repos\DuplicateListeners_Wwise\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1749704215" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Projects\Repos\DuplicateListeners_Wwise\SoundBanks\Default Work Unit.wwu" DateLow="1749704215" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Projects\Repos\DuplicateListeners_Wwise\Queries\Factory Queries.wwu" DateLow="1748006405" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Projects\Repos\DuplicateListeners_Wwise\Queries\Default Work Unit.wwu" DateLow="1749704215" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Projects\Repos\DuplicateListeners_Wwise\Presets\Factory Spatial Audio.wwu" DateLow="1748006405" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Projects\Repos\DuplicateListeners_Wwise\Presets\Default Work Unit.wwu" DateLow="1749704215" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Projects\Repos\DuplicateListeners_Wwise\Modulators\Default Work Unit.wwu" DateLow="1749704215" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Projects\Repos\DuplicateListeners_Wwise\Mixing Sessions\Default Work Unit.wwu" DateLow="1749704215" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Projects\Repos\DuplicateListeners_Wwise\Metadata\Default Work Unit.wwu" DateLow="1749704215" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Projects\Repos\DuplicateListeners_Wwise\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1749704215" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Projects\Repos\DuplicateListeners_Wwise\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1749704215" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Projects\Repos\DuplicateListeners_Wwise\Game Parameters\Default Work Unit.wwu" DateLow="1749704215" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Projects\Repos\DuplicateListeners_Wwise\Events\Default Work Unit.wwu" DateLow="1749704215" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Projects\Repos\DuplicateListeners_Wwise\Effects\Factory Effects.wwu" DateLow="1748006405" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Projects\Repos\DuplicateListeners_Wwise\Effects\Default Work Unit.wwu" DateLow="1749704215" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Projects\Repos\DuplicateListeners_Wwise\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1749704215" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Projects\Repos\DuplicateListeners_Wwise\Duplicate Listeners.wproj" DateLow="1749704703" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Projects\Repos\DuplicateListeners_Wwise\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1748006405" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Projects\Repos\DuplicateListeners_Wwise\Conversion Settings\Default Work Unit.wwu" DateLow="1749704215" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Projects\Repos\DuplicateListeners_Wwise\Control Surface Sessions\Default Work Unit.wwu" DateLow="1749704215" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Projects\Repos\DuplicateListeners_Wwise\Audio Devices\Default Work Unit.wwu" DateLow="1749704215" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Projects\Repos\DuplicateListeners_Wwise\Attenuations\Default Work Unit.wwu" DateLow="1749704215" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Projects\Repos\DuplicateListeners_Wwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1749704215" DateHigh="0"/>
 	<ValidationCacheItem File="Z:\Volumes\Projects\Repos\Duplicate Listeners\Virtual Acoustics\Default Work Unit.wwu" DateLow="1749704215" DateHigh="0"/>
 	<ValidationCacheItem File="Z:\Volumes\Projects\Repos\Duplicate Listeners\Triggers\Default Work Unit.wwu" DateLow="1749704215" DateHigh="0"/>
 	<ValidationCacheItem File="Z:\Volumes\Projects\Repos\Duplicate Listeners\Switches\Default Work Unit.wwu" DateLow="1749704215" DateHigh="0"/>
