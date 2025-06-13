@@ -1,0 +1,29 @@
+{
+ "ProjectInfo": {
+  "Project": {
+   "Name": "Duplicate Listeners",
+   "GUID": "{9B8BD5B5-2485-4826-BB08-6B2D5B116D76}",
+   "Generator": "2024.1.5.8803"
+  },
+  "CacheRoot": "../.cache",
+  "Platforms": [
+   {
+    "Name": "Mac",
+    "GUID": "{F30B86F4-9723-424D-97D7-4820C319DE95}",
+    "BasePlatform": "Mac",
+    "BasePlatformGUID": "{9C6217D5-DD11-4795-87C1-6CE02853C540}",
+    "Path": "Mac"
+   }
+  ],
+  "Languages": [
+   {
+    "Name": "English(US)",
+    "Id": "684519430",
+    "GUID": "{B7AD2067-7EC1-4CFE-90AC-443D7611808D}",
+    "Default": "true",
+    "UseAsStandIn": "true"
+   }
+  ],
+  "FileHash": "{D995F371-A963-2DF3-462F-224681130C87}"
+ }
+}

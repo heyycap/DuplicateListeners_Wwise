@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2282316619",
+    "Type": "Event",
+    "GUID": "{E02DDC58-2F44-4367-829C-E87F349BAC87}",
+    "Language": "SFX",
+    "Hash": "{89AEA2D7-8709-76D8-6525-1296036685AF}",
+    "ObjectPath": "PlayPinkNoise",
+    "ShortName": "PlayPinkNoise",
+    "Path": "Event/PlayPinkNoise.bnk",
+    "Plugins": {
+     "Custom": [
+      {
+       "Id": "289358261",
+       "Name": "Tone Generator",
+       "ObjectPath": "\\Actor-Mixer Hierarchy\\Default Work Unit\\Pink Noise\\Tone Generator",
+       "GUID": "{95B09FEF-EBE6-4C7C-B1CE-9938565174EF}",
+       "LibName": "Wwise Tone Generator",
+       "LibId": "6684674"
+      }
+     ]
+    },
+    "Events": [
+     {
+      "Id": "2282316619",
+      "Name": "PlayPinkNoise",
+      "ObjectPath": "\\Events\\Default Work Unit\\PlayPinkNoise",
+      "GUID": "{E02DDC58-2F44-4367-829C-E87F349BAC87}",
+      "DurationType": "Infinite",
+      "PluginRefs": {
+       "Custom": [
+        {
+         "Id": "289358261"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  ],
+  "FileHash": "{A5F9FB89-3107-FC4A-2BB4-1939951501A3}"
+ }
+}

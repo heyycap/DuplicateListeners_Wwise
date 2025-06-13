@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2282316619	PlayPinkNoise			\Default Work Unit\PlayPinkNoise	
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	289358261	Tone Generator	Wwise Tone Generator		\Actor-Mixer Hierarchy\Default Work Unit\Pink Noise\Tone Generator	
+
